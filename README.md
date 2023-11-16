@@ -1,2 +1,3 @@
 # calorieTracker
-Author -  Saurabh Mishra
+Author -  Saurabh Mishra <br>
+Co-author - Ritik Satpute
